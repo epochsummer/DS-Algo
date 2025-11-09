@@ -9,14 +9,13 @@ Each folder contains Markdown explanations, key formulas, and links to coding pr
 - [System Design](./system-design)
 
 ## Files are divided into
-"""
-├── topic.md/
+```bash
+topic.md/
 │   ├── array_implementation.py
 │   └── notes.md
 ├── topic_implementation.py/
 ├── topic_leetcode.py/
 │   └── topic_leetcode_number1.py
-"""
 
 ## Markdown Explaination
     - Concept summary
