@@ -4,7 +4,7 @@ Notes I made while preparing for interviews and ML engineering roles.
 Each folder contains Markdown explanations, key formulas, and links to coding problems.
 
 ## Contents
-- [Data Structures](./data-structures)
+- [Data Structures](./Data-Structures)
 - [Algorithms](./algorithms)
 - [System Design](./system-design)
 
