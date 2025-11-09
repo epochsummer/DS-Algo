@@ -16,6 +16,7 @@ topic.md/
 ├── topic_implementation.py/
 ├── topic_leetcode.py/
 │   └── topic_leetcode_number1.py
+```
 
 ## Markdown Explaination
     - Concept summary
