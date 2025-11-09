@@ -8,13 +8,12 @@ Each folder contains Markdown explanations, key formulas, and links to coding pr
 - [Algorithms](./algorithms)
 - [System Design](./system-design)
 
-## How to Use
-Each topic has:
-1. Concept summary
-2. Key Operations / Algorithms
-3. Time and Space Complexity
-4. Insights
+### Markdown explaining
+    1.  Concept summary
+    2. Key Operations / Algorithms
+    3. Time and Space Complexity
+    4. Insights
 
-## Example code and Usage
+### Example code and Usage
 
-## Leetcode questions
+### Leetcode questions
