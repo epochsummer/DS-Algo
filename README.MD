@@ -1,0 +1,20 @@
+# CS Study Notes
+
+Notes I made while preparing for interviews and ML engineering roles.  
+Each folder contains Markdown explanations, key formulas, and links to coding problems.
+
+## Contents
+- [Data Structures](./data-structures)
+- [Algorithms](./algorithms)
+- [System Design](./system-design)
+
+## How to Use
+Each topic has:
+1. Concept summary
+2. Key Operations / Algorithms
+3. Time and Space Complexity
+4. Insights
+
+## Example code and Usage
+
+## Leetcode questions
