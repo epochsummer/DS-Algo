@@ -8,12 +8,11 @@ Each folder contains Markdown explanations, key formulas, and links to coding pr
 - [Algorithms](./algorithms)
 - [System Design](./system-design)
 
-### Markdown explaining
-    1.  Concept summary
+### Files are divided into
+- Markdown Explaining
+    1. Concept summary
     2. Key Operations / Algorithms
     3. Time and Space Complexity
     4. Insights
-
-### Example code and Usage
-
-### Leetcode questions
+- Example code and Usage
+- Leetcode questions
