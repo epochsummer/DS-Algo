@@ -10,12 +10,10 @@ Each folder contains Markdown explanations, key formulas, and links to coding pr
 
 ## Files are divided into
 ```bash
-topic.md/
-│   ├── array_implementation.py
-│   └── notes.md
-├── topic_implementation.py/
-├── topic_leetcode.py/
-│   └── topic_leetcode_number1.py
+topic
+├── topic.md
+├── implementation.py
+├── problem_1.py (leetcode problems)
 ```
 
 ## Markdown Explaination
