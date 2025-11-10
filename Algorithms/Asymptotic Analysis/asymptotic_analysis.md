@@ -1,8 +1,10 @@
 # Asymptotic Analysis
 
 ### Runtime Overview
-- Shows how runtime scales with input size
+- Instead of raw time, compare how runtime grows as input size n grows
 - Provides upper and lower bounds for a specific case (Worst case, Best Case)
+- Other devices can make a program run slower or faster 
+    - Does not change how fast it grows as n increases.
 
 ### Definitions
 - Asymptotically
