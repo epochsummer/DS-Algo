@@ -13,11 +13,13 @@ Each folder contains Markdown explanations, key formulas, and links to coding pr
 topic
 ├── topic.md
 ├── implementation.py
+├── practice.py
 ├── problem_1.py (leetcode problems)
 ```
 
 ## Markdown Explaination
     - Concept summary
+    - Pros and Cons
     - Key Operations / Algorithms
     - Time and Space Complexity
     - Insights
