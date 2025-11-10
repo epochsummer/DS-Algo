@@ -12,14 +12,11 @@ For **big-Θ proof**, if there exist constants `c₁`, `c₂`, and `n₀` such t
 
 ## 1. Use the formal proof of Big-O and Big-Θ to show the following
 
-a)  
-\( n^2 + 5n - 2 \) is \( O(n^2) \)
+a) $n^2 + 5n - 2$ is $O(n^2)$
 
-b)  
-\( \frac{n^2 - 1}{n + 1} \) is \( O(n) \)
+b) $\frac{n^2 - 1}{n + 1}$ is $O(n)$
 
-c)  
-\( \sqrt{5n^2 - 3n + 2} \) is \( Θ(n) \)
+c) $$\sqrt{5n^2 - 3n + 2} \in \Theta(n)$$
 
 ---
 
