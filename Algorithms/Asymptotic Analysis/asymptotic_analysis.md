@@ -18,3 +18,6 @@
 - Big Theta
     - 𝚹(g(n)) (Tight bound)
     - The algorithm grows exactly like g(n)
+- Reference function
+    - Exist to compare the algorithm runtime
+    - should be simple function.
